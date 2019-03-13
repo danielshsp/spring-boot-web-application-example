@@ -1,6 +1,6 @@
-package com.boraji.tutorial.springboot.controller;
+package com.springboot.controller;
 
-import com.boraji.tutorial.springboot.domain.Customer;
+import com.springboot.domain.Customer;
 import net.sourceforge.tess4j.TesseractException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;

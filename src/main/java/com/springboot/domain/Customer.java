@@ -1,4 +1,4 @@
-package com.boraji.tutorial.springboot.domain;
+package com.springboot.domain;
 
 import org.springframework.stereotype.Component;
 import java.io.File;
